@@ -1,0 +1,21 @@
+welcome.
+
+the structure is quite easy to follow. i will try to be as serious as i can, and you do the sample projects as much as you can, then criss-cross. ü
+
+
+
+unlike many languages you have heard of or have seen, python is quite human-readable. 
+
+here is an example of how LONG a hello world is in other languages, 
+
+in java;
+
+
+public class HelloWorld {
+
+    public static void main(String[] args) {
+        // Prints "Hello, World" to the terminal window.
+        System.out.println("Hello, World");
+    }
+
+}
