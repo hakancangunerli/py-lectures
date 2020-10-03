@@ -1,7 +1,7 @@
 import pygame
 import time
 import random
- 
+#https://www.edureka.co/blog/snake-game-with-pygame/
 pygame.init()
  
 white = (255, 255, 255)
