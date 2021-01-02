@@ -25,7 +25,7 @@ while lives > 0:
 
         break              
 
-    guess = raw_input("guess a character:") 
+    guess = raw_input("guess a character:" ) 
   
     guesses += guess                    
 
